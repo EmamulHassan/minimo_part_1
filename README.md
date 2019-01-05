@@ -1,2 +1,2 @@
 # minimo_part_1
-practice day 6
+https://emamulhassan.github.io/minimo_part_1/
